@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ZXQ</h1>
 <p align="center">
-  <img align="center" src="https://render.githubusercontent.com/render/math?math=\textbf{life}=\int_{birth}^{now}\mathbf{happy}(time)%2b\mathbf{sad}(time)d(time)" alt="lartpang" />
+  <img align="center" src="https://render.githubusercontent.com/render/math?math=\textbf{life}=\int_{birth}^{now}\mathbf{happy}(time)%2b\mathbf{sad}(time)d(time)" alt="ZXQ" />
 </p>
 
 <p align="center">
@@ -13,5 +13,5 @@
 </p>
 
 - 📫 How to reach me **zxq@mail.dlut.edu.cn**    
-- <a href="https://arxiv.org/abs/2101.12482">:boy: My personal homepage</a> 
+- <a href="https://xiaoqi-zhao-dlut.github.io/">:boy: My personal homepage</a> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Xiaoqi-Zhao-DLUT" alt="Xiaoqi-Zhao-DLUT" /></p>
