@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm ZXQ</h1>
-<p align="center">
-  <img align="center" src="https://render.githubusercontent.com/render/math?math=\textbf{life}=\int_{birth}^{now}\mathbf{happy}(time)%2b\mathbf{sad}(time)d(time)" alt="ZXQ" />
-</p>
 
 <p align="center">
 <a href="https://github.com/Xiaoqi-Zhao-DLUT">
