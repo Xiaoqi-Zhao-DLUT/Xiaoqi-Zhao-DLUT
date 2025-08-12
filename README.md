@@ -9,6 +9,16 @@
 </a>
 </p>
 
-- 📫 How to reach me **zxq@mail.dlut.edu.cn**    
+- 📫 How to reach me **zhaoxq.cv@gmail.com**  or **xiaoqi.zhao@gmail.co**      
 - <a href="https://xiaoqi-zhao-dlut.github.io/">:boy: My personal homepage</a> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Xiaoqi-Zhao-DLUT" alt="Xiaoqi-Zhao-DLUT" /></p>
+
+
+## 📽️ Some Projects
+
+| Name                                                                                         | Stars                                                                               | Description                                                                                                                                                      |
+| -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [**Awesome-Open-Vision-Problem-Modeling**](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Open-Vision-Problem-Modeling)                    | ![stars](https://img.shields.io/github/stars/Xiaoqi-Zhao-DLUT/Awesome-Open-Vision-Problem-Modeling)              | Awesome List for Diverse Open Vision Problems and Modeling Solutions.                                                                                                                                     |
+| [**Awesome-Unified-Context-dependent-Concept-Segmentation**](https://github.com/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) | ![stars](https://img.shields.io/github/stars/Xiaoqi-Zhao-DLUT/Awesome-Unified-Context-dependent-Concept-Segmentation) | Awesome List for Unified Context-dependent Concept Segmentation.                                                                             |
+| [**SAMs-CDConcepts-Eval**](https://github.com/lartpang/SAMs-CDConcepts-Eval)                               | ![stars](https://img.shields.io/github/stars/lartpang/SAMs-CDConcepts-Eval)                | Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes.                                                                                                                                       |
+| [**PySegMetrics**](https://github.com/Xiaoqi-Zhao-DLUT/PySegMetric_EvalToolkit)                         | ![stars](https://img.shields.io/github/stars/Xiaoqi-Zhao-DLUT/PySegMetric_EvalToolkit)             | A Python-based Simple yet Efficient Evaluation Toolbox for Segmentation-like tasks.                                                                    |
