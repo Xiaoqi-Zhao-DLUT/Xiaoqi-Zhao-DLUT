@@ -9,7 +9,7 @@
 </a>
 </p>
 
-- 📫 How to reach me **zhaoxq.cv@gmail.com**  or **xiaoqi.zhao@gmail.co**      
+- 📫 How to reach me **zhaoxq.cv@gmail.com**  or **xiaoqi.zhao@yale.edu**      
 - <a href="https://xiaoqi-zhao-dlut.github.io/">:boy: My personal homepage</a> 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Xiaoqi-Zhao-DLUT" alt="Xiaoqi-Zhao-DLUT" /></p>
 
